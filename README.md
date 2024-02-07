@@ -11,6 +11,6 @@ established conventions from peer reviewed research in the field of linguistics
 - Developed python scripts to perform paired t-tests on relevant A/B experiments and served as team expert on methods of statistical analysis
 - Wrote and presented quantitative and qualitative data reports on machine learning experiments to data partners and key stakeholders
 
-### Projects
+### Python Projects
 - Paired T-Test Data Transformation and Calculation
 - [Pilot Study of the use of "A SQL" vs. "An SQL" in written English](https://github.com/eck-e/pronunciationOfSQL)
