@@ -13,4 +13,4 @@ established conventions from peer reviewed research in the field of linguistics
 
 ### Projects
 - Paired T-Test Data Transformation and Calculation
-- Pilot Study of the use of "A SQL" vs. "An SQL" in written English
+- [Pilot Study of the use of "A SQL" vs. "An SQL" in written English] (https://github.com/eck-e/pronunciationOfSQL)
